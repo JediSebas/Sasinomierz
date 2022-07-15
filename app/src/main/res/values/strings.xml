@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Sasinomierz</string>
+    <string name="app_name" translatable="false">Sasinomierz</string>
+
+    <string name="x_button">X button</string>
+
+    <string name="write_number">Write a number</string>
+    <string name="calculate">Calculate</string>
+    <string name="kilo_sasin" translatable="false">%s kilosasin</string>
+    <string name="sasin" translatable="false">%s sasin</string>
+    <string name="milli_sasin">%s millisasin</string>
+    <string name="micro_sasin">%s microsasin</string>
+    <string name="nano_sasin" translatable="false">%s nanosasin</string>
+
+    <string name="empty">You did not write a number!</string>
 </resources>

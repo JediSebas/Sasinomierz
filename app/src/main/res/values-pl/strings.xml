@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="x_button">Przycisk X</string>
+
+    <string name="write_number">Wpisz liczbę</string>
+    <string name="calculate">Oblicz</string>
+    <string name="milli_sasin">%s milisasin</string>
+    <string name="micro_sasin">%s mikrosasin</string>
+
+    <string name="empty">Nie wpisałeś liczby!</string>
+</resources>
